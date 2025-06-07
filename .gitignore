@@ -1,3 +1,30 @@
+Comprendido. Me estás enviando el contenido de tu archivo .gitignore.
+
+Analizando este .gitignore:
+
+Lo que está bien y ya se está ignorando:
+
+[Ll]ibrary/: Ignora la carpeta Library.
+[Tt]emp/: Ignora la carpeta Temp.
+[Oo]bj/: Ignora la carpeta Obj.
+[Bb]uild/, [Bb]uilds/: Ignora carpetas de compilación.
+[Ll]ogs/: Ignora logs.
+[Mm]emoryCaptures/: Ignora capturas de memoria.
+[Uu]serSettings/: Ignora configuraciones de usuario.
+*.csproj, *.sln, *.user, *.pidb, *.booproj, *.svd: Ignora archivos de proyectos de Visual Studio/MonoDevelop.
+.vscode/, .idea/, *.DotSettings.user: Ignora archivos de configuración de IDEs (VS Code, Rider/JetBrains).
+.gradle/, .local/, Pods/: Ignora carpetas de construcción Android/iOS.
+*.tmp, *.bak, *.swp: Ignora archivos temporales y de respaldo.
+¡Lo que falta y es la razón por la que "Paquetes" y "Configuración del proyecto" aún te aparecen en GitHub!
+
+Tu .gitignore NO ESTÁ IGNORANDO las carpetas Packages/ ni ProjectSettings/. Estas dos carpetas son cruciales para un proyecto de Unity y, si no están explícitamente en el .gitignore, Git las rastreará y las subirá.
+
+Para solucionar esto y que Git deje de rastrearlas y subirlas a GitHub (la forma más segura y común para proyectos Unity):
+
+Paso 1: Edita tu archivo .gitignore
+
+Abre el archivo .gitignore en la raíz de tu proyecto (en la "copia" con la que trabajas) y añade estas dos líneas en una sección lógica (por ejemplo, al final de "Archivos y carpetas generados por Unity" o en una nueva sección para "Carpetas de Unity esenciales no rastreadas"):
+
 # Archivos y carpetas generados por Unity
 [Ll]ibrary/
 [Tt]emp/
@@ -6,6 +33,10 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+
+# Carpetas esenciales de Unity que Git no debe rastrear (añadidas)
+Packages/
+ProjectSettings/
 
 # Configuraciones de usuario
 [Uu]serSettings/
