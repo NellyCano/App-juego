@@ -1,0 +1,4992 @@
+fileFormatVersion: 2
+guid: 1d02a54d1045a744fba3c3a5b06f464e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4292529497773064198
+    second: pngtree-game-mario-png-image_8932908_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6813ab009b96e489729b7cb436acdd
+      internalID: 1665376446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 804
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6083e77aa59bdc545ba027332e9d0e69
+      internalID: 1130320543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 804
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d28af795f621478a8c904a26e503c
+      internalID: -1870734771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 804
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e3e021e856f774b9deb233d4c18f5d
+      internalID: -698340894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d03208e689de94cbc61c14a2f28acc
+      internalID: 1082257642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c468a7301e31b408f7a311519bcb07
+      internalID: 1137757721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5631d6f1a7c27d249a52767cb4b0de2a
+      internalID: 1366790645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067971053f3ea846b5b6c51239485c0
+      internalID: -257352249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_8
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b664bbb65e5f445408f631a60b5c6fd1
+      internalID: -1907488598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5d60ffaf93fe4aa1299f5eb046ff1
+      internalID: 1866746613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb41db9a4494b0f47a02c67657b8aa86
+      internalID: -499045875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_11
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 751
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f159e5029f3c4baca0b18db50a3d2
+      internalID: -1071998858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdde42ae52063f45bf896f335b334e5
+      internalID: 1778512081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079e126b15aa58742876df52674ae4ca
+      internalID: -923044011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21956b58bc66bc4fb46825505f31f0a
+      internalID: 660970068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199deb8b1bbf0614097230a591a84373
+      internalID: -1322588699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc2a0a237e28947ae4341f0bdfa8d0
+      internalID: -1272134390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61b894e1d63a434b87e855b27573a4a
+      internalID: 865824290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1752c3e7e40447b555b5d229afd4c
+      internalID: 1738452976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e359e8fe9427a49baf1276f95b018d
+      internalID: -267787121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_20
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3aff8a353e3d1478a51f03d926bdd3
+      internalID: 389960433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_21
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4532563449f94fa19a32e677de7d6
+      internalID: -367888729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_22
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8a5ccde99aab4a85294f11615da88
+      internalID: 273490798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 698
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413f0708c01df124f8c5d0721602d132
+      internalID: 1598694746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf265ab045d0564da6df8b79fea65fd
+      internalID: 143604830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d868d78694eeb92489cbf6eb36ffec06
+      internalID: 1542696699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26327a5a1b103544b183640683649b1
+      internalID: 1431303674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084bac1dac55cfa4e981c97b969bfb91
+      internalID: 1216945861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca052f425147b4b8c201f5326bf4a1
+      internalID: -591331575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b456e6774fe248894fca2eaaf8b30
+      internalID: -1005723705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fdd08565fd4a5478fac23513f7601f
+      internalID: -1262430256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81b27fa5b20b44b81defbe3be38264
+      internalID: 1404927722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98d40ee58defb4294232d8e23078e8
+      internalID: -1523900415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_33
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c98b43f1506546a30542a9642c9c6
+      internalID: -1057728721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_34
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528e28a274975b468181d594f5645ef
+      internalID: 2042080556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_35
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 645
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f22103c5f34294abb24c1aeddf4076
+      internalID: -2133439307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f9ac45bfa0e1b48a773534a88f57d3
+      internalID: 379180035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f4bf86856044428dc05b1b3f020c7
+      internalID: -1923111223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9daa25b19c766547bd6386da81b055a
+      internalID: 1109830298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c8f5cdaa51dc44940638e7a93551b
+      internalID: 834923362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f724f4b50ef8f4393671452ee61850
+      internalID: 194749578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d47df2e9cd334ba2a23629858efe4
+      internalID: 934569440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39104cfdc4f818748b9d8bc3fe9ada88
+      internalID: -495485196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_43
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b115d1b1217a4cb583189a8d20275
+      internalID: 1803367245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_44
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3117cc8b94003d545b4716461d1dc168
+      internalID: -665427930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_45
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a48e56d185f3624194a8536c40d6aee
+      internalID: 498445533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_46
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58176708ecd9fc44e8a50a6f5434f9cd
+      internalID: 1764681516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_47
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 592
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b42e07bb95c05445bd554b3bacaed2a
+      internalID: 1984866787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c56a6481aab3454c82dbe86af9a2004
+      internalID: -1048560822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3478e439284bae44085f2fdff5330d51
+      internalID: 1235641714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4630a507c2217d240a6fee64c71a3f51
+      internalID: 1677306724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6edecd02efc0f4ea1b8e471dda4a94
+      internalID: 5329137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f7dbef2b7bbd42bdc5baff64c3520
+      internalID: 1570794082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3867518e31148844f832106c53c8a08d
+      internalID: 1268690330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_54
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74118f37a0de6342b85c5772e1a3942
+      internalID: 1421803355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_55
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee5960c4d395b548a0fc64467e258d0
+      internalID: -1582897904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_56
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c538a2d31662ef445b3d566f64add117
+      internalID: 1926632426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_57
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da74153b959f3f4c89d4d991d4f730c
+      internalID: -557843629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ae01f59458a24db82937166fb1dd6
+      internalID: 1742661670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_59
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1594f6adb8b3ad542a8c7348a428d824
+      internalID: -698288954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_60
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f96038f31df5e408a27595dc88ed7d
+      internalID: -602022079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_61
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 539
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8156878806ee4e34cbc9299b13c5e4ed
+      internalID: 997300165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba661037512f742aecc69719251898
+      internalID: 644518663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8c87a4f063094bac8c9c20ea55733
+      internalID: -1535232881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406983461662ba43ad65495e0fa7881
+      internalID: 233017858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54b9dc8b7727a440bf4fc3223f5c906
+      internalID: -852581530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f19b7f77c80664d9fced5b03a57daf
+      internalID: 507192781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8964b32840f5374b9813132c1500c62
+      internalID: 295728453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa171954aca97f439fe24f591028e96
+      internalID: -986313042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_69
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e5536ce479da4aa65c5a7e5e0b0fe
+      internalID: -759905668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db110e9b7cbceb48a34fb174a383456
+      internalID: 1519344722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_71
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1509b96742d674d8ea4a4712e6988b
+      internalID: -518287684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48488c85aa0764ea1b05f06924f75b
+      internalID: -684658535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_73
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa734c49b1d4fa94a813584b0be53754
+      internalID: -266800493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_74
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec17124bbcb3069478a2a75142b4dff6
+      internalID: 1913789474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_75
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9788b931388cce3448c73c1afdc5ad2d
+      internalID: 1706895805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_76
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8ecdd7837195f44bdd4a5f4da3a1ca
+      internalID: -1023575133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_77
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 486
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b529431acc576f4093c26c953bb361f
+      internalID: 1797060640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd4a5e0e269e3458fd88511b35f8cc
+      internalID: -935367612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2551f80def3a54fa0285fc227abd47
+      internalID: 1698318743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af657ee1b11454346bfe987833939efe
+      internalID: -337278732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df24d7774635e834cb65894af4deb278
+      internalID: -998174930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f5a105f84fa884e9b2380a4cf5431c
+      internalID: -2013077531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_83
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a741370cfdd6f43b00b39833ee987f
+      internalID: -1000638041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756ada920fe4784a8f512c73496c012
+      internalID: 1796706002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_85
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a50de9021963f4b94a6d835018cb6d
+      internalID: 175785232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b359f485e56a124da937e7576ca2352
+      internalID: 919207633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_87
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cdf2e579ec8bc47ab2206a00dfc4c2
+      internalID: -346302942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_88
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1432ac8464a61145bfee615ac9a6f76
+      internalID: -1422344810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_89
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd7c26f2491c284486ace04ecabc828
+      internalID: 2137275661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_90
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb852142ba3e19445b9ac73d86991dfb
+      internalID: -1051394940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_91
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225baed2e59f4e4f9a81c38064e1147
+      internalID: 961810694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_92
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 433
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb5f5aff3797af4b98afa7beb1e3c7a
+      internalID: -1458077039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8845325cbe274faccf41b3291c63c
+      internalID: 1449787452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_94
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ab8ca2c599854dadce23dcdcef0ee
+      internalID: 1815397722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0383c9b884e84f9b6432a7faac1e2
+      internalID: -392813726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_96
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aab2512494b7f44b9f5f468964f13c3
+      internalID: 1764415829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_97
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5c2d613def0140ba86eab415dc2bb
+      internalID: 1299485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_98
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de7b67857db854790a21f244147bb3
+      internalID: -508404889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae27bcf7e1c3e8428d0f20f71c0693c
+      internalID: 1727859539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_100
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c8e80ecc3fd8f4685cfed86379aec7
+      internalID: -364301532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c73386c417c954483b58b3f7f9a056
+      internalID: -1079090378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_102
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308edcbbd7b59d41b2e36645cdf685c
+      internalID: 575087263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_103
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2b3fc4f7d38842ac3973906fb053d
+      internalID: -2093730454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_104
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca32784a16c444d9ebc8f3afe5e61a
+      internalID: -491970739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_105
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404448604e63b24fa560dc0bd278054
+      internalID: 1579062173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_106
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186aa87bbca9974086d169e8c33d139
+      internalID: 437434673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_107
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9592bed17cb16a4097dce97a3cbb072
+      internalID: -89871454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_108
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 380
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf3ec1b20a4e041a81720b8aef4a88
+      internalID: -282452253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5c348556cb4b4cb35a8c332e6742a
+      internalID: 1330825159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba57f93a54291b49bed698abf7209fc
+      internalID: 1942031855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af92e40752ad964b81e23fa38201e86
+      internalID: 71924382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_112
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073a68f10943d34ebf6c6aa6e0568ac
+      internalID: -1817006555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d953b828d2aec374dbf5767ba433d847
+      internalID: 200494703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_114
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ab953d43cf474d90e729bccab3b4e
+      internalID: -557677042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_115
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb611387e074244a832f8be4d6b77d
+      internalID: -1410686400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_116
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad859de382c2ef14e8cf4573de3fc985
+      internalID: 944639137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdda3d08ed7ab3498311d73b8827411
+      internalID: 2055853641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_118
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfedc82b2d99524b911e0358ccec5c5
+      internalID: 1353601816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_119
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f367dc7a2cac3146abeb657e72d7046
+      internalID: 1664565442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_120
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ac5db3fd49f04c933132a8834f7a3
+      internalID: 513927249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_121
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47123c721d066ff468a8fd3abe1c8e42
+      internalID: -1041608160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_122
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bdc447e585acf49ae1c2dbfe96e60a
+      internalID: -514691957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_123
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f60f55379370f45bf4cfea6395a344
+      internalID: 1631371834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_124
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 327
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815f94819860234994b68c1f8ed37b0
+      internalID: 2046149442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998729fc94acf414898d321f854ea2b9
+      internalID: -6878356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_126
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d21c78e7ae1b3449b6dae66ece25fe
+      internalID: -1644247768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_127
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb56ac37a3337848b7cba16eef2e05c
+      internalID: 688850399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_128
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730160002c099fd4ca59a23fb248c737
+      internalID: -466115410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_129
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b97084f09c4f546a5b2f88fb57315a
+      internalID: -978854779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_130
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1cb622b1ec304ebe4ac50094cc66a
+      internalID: -1580717832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_131
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6e9badb33c904f988f4a920c70bd0
+      internalID: -367187944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_132
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b236b4f36b6cc408fd3e3ecdd22636
+      internalID: 1517729445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_133
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cec5f85224a79f46bf8e1cffcc1ae72
+      internalID: 1112374750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_134
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9fb5697a59da949bce96ce90a2f2d9
+      internalID: -410835711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_135
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501e29f685877348adb728113af20f9
+      internalID: -907269893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_136
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c19e26bfc468847a42164aa904034f
+      internalID: 80572097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_137
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9a4b41aceaeda41a511c9c1ecb7ee2
+      internalID: 1961909339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_138
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec9b8f3699cbd4cb24c2e1f6f42a4f
+      internalID: 1212114512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_139
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3b6bec7387b246b1eac590fae2e8e
+      internalID: -52136595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_140
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 274
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04808ffc9b28a47a927ce2487a4062
+      internalID: -1643528186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e99e6a49aa2f048995051ff36e5fe9
+      internalID: 393207357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_142
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aba81a600689f14ba1dc26a3bd4230f
+      internalID: 1851268880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d68eb8af67c147b718e6d348eb140
+      internalID: 955199795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_144
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ebd58fe01e4e3409eb568aed354129
+      internalID: 1148212186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_145
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5246ab47e4d53e49a1f7bd132e90cd1
+      internalID: -547378213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_146
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4392dce92993448921a5f31ba5ec9
+      internalID: -1330254963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_147
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74febec6ae1f1ce419b5e3c1db836a8d
+      internalID: -1829551487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_148
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec855468c8a675c4aa2ac65b96eb6104
+      internalID: 1322816849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_149
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c800245d07e44f8f6ddb44367b55b
+      internalID: -1426053131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_150
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca718f80728d04985d479a21954f47
+      internalID: -1282725304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_151
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c189f72189c641b53113836030315
+      internalID: -1080144825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_152
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8b9bed5a8e2ce4084915a6933f5cd3
+      internalID: 1688152190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_153
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614d92231caaf540bac46c108ddbaaa
+      internalID: -899394566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_154
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6199dbd3156f742a04b45d87201075
+      internalID: -1902941854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_155
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f56f77a3d70f74ea10933a4b808910
+      internalID: -41709424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_156
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 221
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f17b1b7b686e41a8f28285e8ab883
+      internalID: -2018897242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5742ea4b104c346a5906f405d9d775
+      internalID: -1756279314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_158
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23aae98d2522142b9d9783cf93a75b
+      internalID: 581095612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_159
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18350cecc7b8045b45adb8bcf185c5
+      internalID: 726953542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_160
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc4f1df4eaa2344abcc00c1e6d962e
+      internalID: 655399706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_161
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e71471f1400c64980a581637e862c2
+      internalID: -590779096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_162
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0339f821eb98af944845db9c425e2a71
+      internalID: 1050372974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_163
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976583b90a7b3924b8edf7125b20c9fc
+      internalID: 887495543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_164
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0ca4726bd881f47b28751f0c515aea
+      internalID: 1191234831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_165
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d18105a198604eb196e78e021bb92
+      internalID: 968032587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_166
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b5a9866cd12ff4d8173d3554e8f6c0
+      internalID: 445578204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_167
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0477a1570a2de4bb73bf460e47b9f3
+      internalID: 1033517376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_168
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2de356620210042813b6a5fab5347d
+      internalID: -908098198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_169
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3739924cdfc6144a927bb1fb5c8aac
+      internalID: -690377463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_170
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e548231a422f546adc2956c54a270e
+      internalID: 1705166944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_171
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b4bdf4cb12b1e4486dca6843a2d3a4
+      internalID: 1444113418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_172
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 168
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda9480b4a1ddb94d9e55b7d4f85d129
+      internalID: 940086735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e79eb57e649864cb7b76d5456c045f
+      internalID: 1126595455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_174
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8933436cb9d825542b487c2f395bf2d3
+      internalID: 1844502882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_175
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383cf5ee9e5b45d4b9dbd35bd4d9ca87
+      internalID: 474642372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_176
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d845e2eb402544cbe15e135a7fd7c4
+      internalID: -802714817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_177
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4afea7a6ab06e41ba838fc3ed5e051
+      internalID: -309761200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_178
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55861a765fd0c1443ad5171369e994c6
+      internalID: -1943507427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_179
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffc6e93a29987141866662fb359c2b8
+      internalID: -1913005855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_180
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396b539a4c8a084eb009614d0d73ae7
+      internalID: 2134211448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_181
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdfab330cb7d244f947024b211f6269
+      internalID: -522205577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_182
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae3ca47b18570f418864c0fce73e4f9
+      internalID: -14919969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_183
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997273c429e40e745bf62f0d924a5aa2
+      internalID: 270809199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_184
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c588798cdb069e4db6f4469d6e0b025
+      internalID: 2051227097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_185
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570aa0c195b3384ba8855b07c6cb87c
+      internalID: -1992714109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_186
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361de8209ce0a3545a7c8a33def754ae
+      internalID: 1599099994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_187
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273c497fd58e954ab443b1831f125cb
+      internalID: 693296912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_188
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 115
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63004b53ae05f2145b0134d21f1428bb
+      internalID: -1916363956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765a4f74d4b8bef4496a3657f9fdb112
+      internalID: -459582595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_190
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc666e6724b3445bae077772cf38bb
+      internalID: -1810530683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_191
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843a99f30782fb438c25035f768ec74
+      internalID: -543540332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_192
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675ccb4ca987c94e8aeb15e6a239882
+      internalID: -1917823838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_193
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a370986ff77148b1a908f25d42465
+      internalID: -686504523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_194
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9423134e94eb34881a9da456d35487
+      internalID: 854129789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_195
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d63a2adeee1c4db5f05b1c9a8215b
+      internalID: 314212193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_196
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04dcc582dfc2774e81bbf980ab153b9
+      internalID: -1034681123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_197
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ade4aff9be394bb19fa9722b46dd1
+      internalID: 1523272864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_198
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41520eee5a588c46b1394568333d1cf
+      internalID: 732944215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_199
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717b1d7d575b4640a87580e53da1f86
+      internalID: -810102042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_200
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a20338c567e5d41aa444ccc09069f7
+      internalID: 1986920734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_201
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110dbd5aedb0a6d4e9b8780ecfbb9bc6
+      internalID: -1953083879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_202
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73801bb344519d1428a341e89ecde04d
+      internalID: -66072412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_203
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8c18ab75a20a44da977294c3c942d1
+      internalID: 259833985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_204
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 62
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f3df0de25f9c3409c7a3c8912db4ba
+      internalID: -324190973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f36ea95fc2fe41b0deaf9c0b3a1d1
+      internalID: -2006052649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_206
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d389c00112154aab9df979f18e1b2
+      internalID: 505549803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_207
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a26fabc44533429ff29fb43986f5c
+      internalID: 1165159931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_208
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102577cb4f10c14ba57fa726e580c4d
+      internalID: -76258136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_209
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acbc5c1a2495894f8c5731fca37ca8f
+      internalID: 1207573533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_210
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984b6e313aee654e803b6560f163e51
+      internalID: -952301245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_211
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a239a2167dc8de544982d63e0c21de17
+      internalID: 1444115809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_212
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa56bb98adcc84ca072eeffc312dde
+      internalID: -152523315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_213
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b58fe3e929c1984a8265681dc17ebcb
+      internalID: -1666585347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_214
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1cdf019ceb6548b2303b291575f13
+      internalID: -1610602882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_215
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d40c4ad7ad2904da6a5727baf074c3
+      internalID: -182085988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_216
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a38ce67666d4748be5272ede3e0696
+      internalID: 1891172546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_217
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7f2de7ef9b06448b9adbe4076d092
+      internalID: -2117218629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_218
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c1cb255160c94090d0246ed05fe44
+      internalID: 855440063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_219
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6cad8a063e2e4b883a9b662f4de26
+      internalID: -457372197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-game-mario-png-image_8932908_220
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 9
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed5e11513921240b3ba5141d91c0e3
+      internalID: -90332502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7c44e4371d3be2f4fac3236eafb77a8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-game-mario-png-image_8932908_0: 1665376446
+      pngtree-game-mario-png-image_8932908_1: 1130320543
+      pngtree-game-mario-png-image_8932908_10: -499045875
+      pngtree-game-mario-png-image_8932908_100: -364301532
+      pngtree-game-mario-png-image_8932908_101: -1079090378
+      pngtree-game-mario-png-image_8932908_102: 575087263
+      pngtree-game-mario-png-image_8932908_103: -2093730454
+      pngtree-game-mario-png-image_8932908_104: -491970739
+      pngtree-game-mario-png-image_8932908_105: 1579062173
+      pngtree-game-mario-png-image_8932908_106: 437434673
+      pngtree-game-mario-png-image_8932908_107: -89871454
+      pngtree-game-mario-png-image_8932908_108: -282452253
+      pngtree-game-mario-png-image_8932908_109: 1330825159
+      pngtree-game-mario-png-image_8932908_11: -1071998858
+      pngtree-game-mario-png-image_8932908_110: 1942031855
+      pngtree-game-mario-png-image_8932908_111: 71924382
+      pngtree-game-mario-png-image_8932908_112: -1817006555
+      pngtree-game-mario-png-image_8932908_113: 200494703
+      pngtree-game-mario-png-image_8932908_114: -557677042
+      pngtree-game-mario-png-image_8932908_115: -1410686400
+      pngtree-game-mario-png-image_8932908_116: 944639137
+      pngtree-game-mario-png-image_8932908_117: 2055853641
+      pngtree-game-mario-png-image_8932908_118: 1353601816
+      pngtree-game-mario-png-image_8932908_119: 1664565442
+      pngtree-game-mario-png-image_8932908_12: 1778512081
+      pngtree-game-mario-png-image_8932908_120: 513927249
+      pngtree-game-mario-png-image_8932908_121: -1041608160
+      pngtree-game-mario-png-image_8932908_122: -514691957
+      pngtree-game-mario-png-image_8932908_123: 1631371834
+      pngtree-game-mario-png-image_8932908_124: 2046149442
+      pngtree-game-mario-png-image_8932908_125: -6878356
+      pngtree-game-mario-png-image_8932908_126: -1644247768
+      pngtree-game-mario-png-image_8932908_127: 688850399
+      pngtree-game-mario-png-image_8932908_128: -466115410
+      pngtree-game-mario-png-image_8932908_129: -978854779
+      pngtree-game-mario-png-image_8932908_13: -923044011
+      pngtree-game-mario-png-image_8932908_130: -1580717832
+      pngtree-game-mario-png-image_8932908_131: -367187944
+      pngtree-game-mario-png-image_8932908_132: 1517729445
+      pngtree-game-mario-png-image_8932908_133: 1112374750
+      pngtree-game-mario-png-image_8932908_134: -410835711
+      pngtree-game-mario-png-image_8932908_135: -907269893
+      pngtree-game-mario-png-image_8932908_136: 80572097
+      pngtree-game-mario-png-image_8932908_137: 1961909339
+      pngtree-game-mario-png-image_8932908_138: 1212114512
+      pngtree-game-mario-png-image_8932908_139: -52136595
+      pngtree-game-mario-png-image_8932908_14: 660970068
+      pngtree-game-mario-png-image_8932908_140: -1643528186
+      pngtree-game-mario-png-image_8932908_141: 393207357
+      pngtree-game-mario-png-image_8932908_142: 1851268880
+      pngtree-game-mario-png-image_8932908_143: 955199795
+      pngtree-game-mario-png-image_8932908_144: 1148212186
+      pngtree-game-mario-png-image_8932908_145: -547378213
+      pngtree-game-mario-png-image_8932908_146: -1330254963
+      pngtree-game-mario-png-image_8932908_147: -1829551487
+      pngtree-game-mario-png-image_8932908_148: 1322816849
+      pngtree-game-mario-png-image_8932908_149: -1426053131
+      pngtree-game-mario-png-image_8932908_15: -1322588699
+      pngtree-game-mario-png-image_8932908_150: -1282725304
+      pngtree-game-mario-png-image_8932908_151: -1080144825
+      pngtree-game-mario-png-image_8932908_152: 1688152190
+      pngtree-game-mario-png-image_8932908_153: -899394566
+      pngtree-game-mario-png-image_8932908_154: -1902941854
+      pngtree-game-mario-png-image_8932908_155: -41709424
+      pngtree-game-mario-png-image_8932908_156: -2018897242
+      pngtree-game-mario-png-image_8932908_157: -1756279314
+      pngtree-game-mario-png-image_8932908_158: 581095612
+      pngtree-game-mario-png-image_8932908_159: 726953542
+      pngtree-game-mario-png-image_8932908_16: -1272134390
+      pngtree-game-mario-png-image_8932908_160: 655399706
+      pngtree-game-mario-png-image_8932908_161: -590779096
+      pngtree-game-mario-png-image_8932908_162: 1050372974
+      pngtree-game-mario-png-image_8932908_163: 887495543
+      pngtree-game-mario-png-image_8932908_164: 1191234831
+      pngtree-game-mario-png-image_8932908_165: 968032587
+      pngtree-game-mario-png-image_8932908_166: 445578204
+      pngtree-game-mario-png-image_8932908_167: 1033517376
+      pngtree-game-mario-png-image_8932908_168: -908098198
+      pngtree-game-mario-png-image_8932908_169: -690377463
+      pngtree-game-mario-png-image_8932908_17: 865824290
+      pngtree-game-mario-png-image_8932908_170: 1705166944
+      pngtree-game-mario-png-image_8932908_171: 1444113418
+      pngtree-game-mario-png-image_8932908_172: 940086735
+      pngtree-game-mario-png-image_8932908_173: 1126595455
+      pngtree-game-mario-png-image_8932908_174: 1844502882
+      pngtree-game-mario-png-image_8932908_175: 474642372
+      pngtree-game-mario-png-image_8932908_176: -802714817
+      pngtree-game-mario-png-image_8932908_177: -309761200
+      pngtree-game-mario-png-image_8932908_178: -1943507427
+      pngtree-game-mario-png-image_8932908_179: -1913005855
+      pngtree-game-mario-png-image_8932908_18: 1738452976
+      pngtree-game-mario-png-image_8932908_180: 2134211448
+      pngtree-game-mario-png-image_8932908_181: -522205577
+      pngtree-game-mario-png-image_8932908_182: -14919969
+      pngtree-game-mario-png-image_8932908_183: 270809199
+      pngtree-game-mario-png-image_8932908_184: 2051227097
+      pngtree-game-mario-png-image_8932908_185: -1992714109
+      pngtree-game-mario-png-image_8932908_186: 1599099994
+      pngtree-game-mario-png-image_8932908_187: 693296912
+      pngtree-game-mario-png-image_8932908_188: -1916363956
+      pngtree-game-mario-png-image_8932908_189: -459582595
+      pngtree-game-mario-png-image_8932908_19: -267787121
+      pngtree-game-mario-png-image_8932908_190: -1810530683
+      pngtree-game-mario-png-image_8932908_191: -543540332
+      pngtree-game-mario-png-image_8932908_192: -1917823838
+      pngtree-game-mario-png-image_8932908_193: -686504523
+      pngtree-game-mario-png-image_8932908_194: 854129789
+      pngtree-game-mario-png-image_8932908_195: 314212193
+      pngtree-game-mario-png-image_8932908_196: -1034681123
+      pngtree-game-mario-png-image_8932908_197: 1523272864
+      pngtree-game-mario-png-image_8932908_198: 732944215
+      pngtree-game-mario-png-image_8932908_199: -810102042
+      pngtree-game-mario-png-image_8932908_2: -1870734771
+      pngtree-game-mario-png-image_8932908_20: 389960433
+      pngtree-game-mario-png-image_8932908_200: 1986920734
+      pngtree-game-mario-png-image_8932908_201: -1953083879
+      pngtree-game-mario-png-image_8932908_202: -66072412
+      pngtree-game-mario-png-image_8932908_203: 259833985
+      pngtree-game-mario-png-image_8932908_204: -324190973
+      pngtree-game-mario-png-image_8932908_205: -2006052649
+      pngtree-game-mario-png-image_8932908_206: 505549803
+      pngtree-game-mario-png-image_8932908_207: 1165159931
+      pngtree-game-mario-png-image_8932908_208: -76258136
+      pngtree-game-mario-png-image_8932908_209: 1207573533
+      pngtree-game-mario-png-image_8932908_21: -367888729
+      pngtree-game-mario-png-image_8932908_210: -952301245
+      pngtree-game-mario-png-image_8932908_211: 1444115809
+      pngtree-game-mario-png-image_8932908_212: -152523315
+      pngtree-game-mario-png-image_8932908_213: -1666585347
+      pngtree-game-mario-png-image_8932908_214: -1610602882
+      pngtree-game-mario-png-image_8932908_215: -182085988
+      pngtree-game-mario-png-image_8932908_216: 1891172546
+      pngtree-game-mario-png-image_8932908_217: -2117218629
+      pngtree-game-mario-png-image_8932908_218: 855440063
+      pngtree-game-mario-png-image_8932908_219: -457372197
+      pngtree-game-mario-png-image_8932908_22: 273490798
+      pngtree-game-mario-png-image_8932908_220: -90332502
+      pngtree-game-mario-png-image_8932908_23: 1598694746
+      pngtree-game-mario-png-image_8932908_24: 143604830
+      pngtree-game-mario-png-image_8932908_25: 1542696699
+      pngtree-game-mario-png-image_8932908_26: 1431303674
+      pngtree-game-mario-png-image_8932908_27: 1216945861
+      pngtree-game-mario-png-image_8932908_28: -591331575
+      pngtree-game-mario-png-image_8932908_29: -1005723705
+      pngtree-game-mario-png-image_8932908_3: -698340894
+      pngtree-game-mario-png-image_8932908_30: -1262430256
+      pngtree-game-mario-png-image_8932908_31: 1404927722
+      pngtree-game-mario-png-image_8932908_32: -1523900415
+      pngtree-game-mario-png-image_8932908_33: -1057728721
+      pngtree-game-mario-png-image_8932908_34: 2042080556
+      pngtree-game-mario-png-image_8932908_35: -2133439307
+      pngtree-game-mario-png-image_8932908_36: 379180035
+      pngtree-game-mario-png-image_8932908_37: -1923111223
+      pngtree-game-mario-png-image_8932908_38: 1109830298
+      pngtree-game-mario-png-image_8932908_39: 834923362
+      pngtree-game-mario-png-image_8932908_4: 1082257642
+      pngtree-game-mario-png-image_8932908_40: 194749578
+      pngtree-game-mario-png-image_8932908_41: 934569440
+      pngtree-game-mario-png-image_8932908_42: -495485196
+      pngtree-game-mario-png-image_8932908_43: 1803367245
+      pngtree-game-mario-png-image_8932908_44: -665427930
+      pngtree-game-mario-png-image_8932908_45: 498445533
+      pngtree-game-mario-png-image_8932908_46: 1764681516
+      pngtree-game-mario-png-image_8932908_47: 1984866787
+      pngtree-game-mario-png-image_8932908_48: -1048560822
+      pngtree-game-mario-png-image_8932908_49: 1235641714
+      pngtree-game-mario-png-image_8932908_5: 1137757721
+      pngtree-game-mario-png-image_8932908_50: 1677306724
+      pngtree-game-mario-png-image_8932908_51: 5329137
+      pngtree-game-mario-png-image_8932908_52: 1570794082
+      pngtree-game-mario-png-image_8932908_53: 1268690330
+      pngtree-game-mario-png-image_8932908_54: 1421803355
+      pngtree-game-mario-png-image_8932908_55: -1582897904
+      pngtree-game-mario-png-image_8932908_56: 1926632426
+      pngtree-game-mario-png-image_8932908_57: -557843629
+      pngtree-game-mario-png-image_8932908_58: 1742661670
+      pngtree-game-mario-png-image_8932908_59: -698288954
+      pngtree-game-mario-png-image_8932908_6: 1366790645
+      pngtree-game-mario-png-image_8932908_60: -602022079
+      pngtree-game-mario-png-image_8932908_61: 997300165
+      pngtree-game-mario-png-image_8932908_62: 644518663
+      pngtree-game-mario-png-image_8932908_63: -1535232881
+      pngtree-game-mario-png-image_8932908_64: 233017858
+      pngtree-game-mario-png-image_8932908_65: -852581530
+      pngtree-game-mario-png-image_8932908_66: 507192781
+      pngtree-game-mario-png-image_8932908_67: 295728453
+      pngtree-game-mario-png-image_8932908_68: -986313042
+      pngtree-game-mario-png-image_8932908_69: -759905668
+      pngtree-game-mario-png-image_8932908_7: -257352249
+      pngtree-game-mario-png-image_8932908_70: 1519344722
+      pngtree-game-mario-png-image_8932908_71: -518287684
+      pngtree-game-mario-png-image_8932908_72: -684658535
+      pngtree-game-mario-png-image_8932908_73: -266800493
+      pngtree-game-mario-png-image_8932908_74: 1913789474
+      pngtree-game-mario-png-image_8932908_75: 1706895805
+      pngtree-game-mario-png-image_8932908_76: -1023575133
+      pngtree-game-mario-png-image_8932908_77: 1797060640
+      pngtree-game-mario-png-image_8932908_78: -935367612
+      pngtree-game-mario-png-image_8932908_79: 1698318743
+      pngtree-game-mario-png-image_8932908_8: -1907488598
+      pngtree-game-mario-png-image_8932908_80: -337278732
+      pngtree-game-mario-png-image_8932908_81: -998174930
+      pngtree-game-mario-png-image_8932908_82: -2013077531
+      pngtree-game-mario-png-image_8932908_83: -1000638041
+      pngtree-game-mario-png-image_8932908_84: 1796706002
+      pngtree-game-mario-png-image_8932908_85: 175785232
+      pngtree-game-mario-png-image_8932908_86: 919207633
+      pngtree-game-mario-png-image_8932908_87: -346302942
+      pngtree-game-mario-png-image_8932908_88: -1422344810
+      pngtree-game-mario-png-image_8932908_89: 2137275661
+      pngtree-game-mario-png-image_8932908_9: 1866746613
+      pngtree-game-mario-png-image_8932908_90: -1051394940
+      pngtree-game-mario-png-image_8932908_91: 961810694
+      pngtree-game-mario-png-image_8932908_92: -1458077039
+      pngtree-game-mario-png-image_8932908_93: 1449787452
+      pngtree-game-mario-png-image_8932908_94: 1815397722
+      pngtree-game-mario-png-image_8932908_95: -392813726
+      pngtree-game-mario-png-image_8932908_96: 1764415829
+      pngtree-game-mario-png-image_8932908_97: 1299485
+      pngtree-game-mario-png-image_8932908_98: -508404889
+      pngtree-game-mario-png-image_8932908_99: 1727859539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
